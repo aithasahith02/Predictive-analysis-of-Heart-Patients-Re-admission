@@ -22,3 +22,4 @@ The dataset used for this project is from the [MIMIC-III](https://mimic.physione
 - **ICU Readmission Prediction**: Focused on predicting ICU readmissions within five days of discharge.
 - **Exploratory Data Analysis**: Uncover key factors influencing patient outcomes and ICU readmissions.
 
+For any questions or issues, feel free to contact me at aithasahith0214@gmail.com.
