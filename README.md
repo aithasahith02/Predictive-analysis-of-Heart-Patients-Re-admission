@@ -2,12 +2,6 @@
 
 This project, which I am currently working on, involves analyzing patient data from the MIMIC-III database to predict ICU readmissions for heart failure patients within five days of discharge. The analysis aims to provide healthcare professionals with actionable insights to optimize patient care and hospital resource management.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Technologies Used](#technologies-used)
-- [Data Source](#data-source)
-- [Key Features](#key-features)
-
 ## Project Overview
 
 The project focuses on extracting and processing heart failure patient data using SQL queries to identify patterns in ICU readmissions. Exploratory data analysis (EDA) is conducted on the MIMIC-III database, including patient admissions, diagnoses, ICU stays, and medications, with the goal of providing insights into patient readmission risks.
