@@ -10,7 +10,7 @@ This project, involves analyzing patient data from the Electronic Health Records
 
 ## Data Source
 
-The dataset used for this project is from the Physionet(https://physionet.org/content/heart-failure-zigong/1.3/) clinical database.
+The dataset used for this project is from this [dataset](https://physionet.org/content/heart-failure-zigong/1.3/) in physionet.
 
 ## Key Features
 
