@@ -1,20 +1,16 @@
 # Heart Failure Patient Readmission Analysis
 
-This project, which I am currently working on, involves analyzing patient data from the MIMIC-III database to predict ICU readmissions for heart failure patients within five days of discharge. The analysis aims to provide healthcare professionals with actionable insights to optimize patient care and hospital resource management.
-
-## Project Overview
-
-The project focuses on extracting and processing heart failure patient data using SQL queries to identify patterns in ICU readmissions. Exploratory data analysis (EDA) is conducted on the MIMIC-III database, including patient admissions, diagnoses, ICU stays, and medications, with the goal of providing insights into patient readmission risks.
+This project, involves analyzing patient data from the Electronic Health Records(EHR). The aim of this project is to develop a predictive model that can estimate the readmissions of heart failure patients within 28 days of discharge from the hospital. The analysis aims to provide healthcare professionals with actionable insights to optimize patient care and hospital resource management.
 
 ## Technologies Used
 
+- **Python**: For model design, data analysis and visualization (pandas, NumPy, sklearn, matplotlib).
+- **Google Colab**: Development and analysis environment.
 - **SQL**: Data extraction, processing, and transformation.
-- **Python**: For data analysis and visualization (pandas, NumPy, matplotlib).
-- **Jupyter Notebook**: Development and analysis environment.
 
 ## Data Source
 
-The dataset used for this project is from the [MIMIC-III](https://mimic.physionet.org/) clinical database, which contains de-identified healthcare data of patients admitted to critical care units at the Beth Israel Deaconess Medical Center.
+The dataset used for this project is from the Physionet(https://physionet.org/content/heart-failure-zigong/1.3/) clinical database.
 
 ## Key Features
 
